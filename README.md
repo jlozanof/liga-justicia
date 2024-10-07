@@ -9,3 +9,7 @@ Pueden hacer lo que quieran...
 ## practicando git.!!!
 
 ![git](https://github.com/user-attachments/assets/842bb7e7-0d46-45f3-8ee4-6964dd098a00)
+
+
+
+probando estrategia fast forward only.
